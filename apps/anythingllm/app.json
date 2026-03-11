@@ -1,7 +1,7 @@
 {
   "id": "anythingllm",
   "name": "AnythingLLM",
-  "description": "All-in-one AI app for running agents locally",
+  "description": "All-in-one AI application for productivity using on-device models",
   "category": ["chat"],
   "date_added": "2025-02-05",
   "links": {
