@@ -1,0 +1,11 @@
+{
+  "id": "fx-chatbot",
+  "name": "Firefox Chatbot",
+  "description": "Run lemonade inside your firefox browser",
+  "category": ["chat"],
+  "date_added": "2025-03-17",
+  "links": {
+    "app": "https://www.firefox.com/",
+    "guide": "https://quickthoughts.ca/posts/firefox-chatback-lemonade-sdk/"
+  }
+}
