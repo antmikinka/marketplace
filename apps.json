@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-03-12T13:31:05.413357+00:00",
+  "generated": "2026-03-18T23:27:05.200058+00:00",
   "apps": [
     {
       "id": "anythingllm",
@@ -153,6 +153,21 @@
       },
       "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/openhands/logo.png",
       "pinned": true
+    },
+    {
+      "id": "fx-chatbot",
+      "name": "Firefox Chatbot",
+      "description": "Run lemonade inside your firefox browser",
+      "category": [
+        "chat"
+      ],
+      "date_added": "2025-03-17",
+      "links": {
+        "app": "https://www.firefox.com/",
+        "guide": "https://quickthoughts.ca/posts/firefox-chatback-lemonade-sdk/"
+      },
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/fx-chatbot/logo.png",
+      "pinned": false
     },
     {
       "id": "codegpt",
