@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-03-25T18:33:08.716113+00:00",
+  "generated": "2026-03-25T19:59:10.668411+00:00",
   "apps": [
     {
       "id": "fx-chatbot",
@@ -166,7 +166,7 @@
       "date_added": "2026-03-18",
       "links": {
         "app": "https://github.com/Phqen1x/lemon-zest",
-        "guide": "https://lemonade-server.ai/docs/server/apps/lemon-zest.md",
+        "guide": "https://github.com/lemonade-sdk/lemonade/blob/main/docs/server/apps/lemon-zest.md",
         "video": "https://youtu.be/XMtEJzPKcLE"
       },
       "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/lemon-zest/logo.png",
